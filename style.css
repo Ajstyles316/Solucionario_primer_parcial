@@ -1,0 +1,10 @@
+h1{
+    color: aliceblue;
+    background-color: aqua;
+}
+button{
+    color: yellowgreen;
+    background-color: violet;
+    border-radius: 14px;
+    padding-left: 40px;
+}
